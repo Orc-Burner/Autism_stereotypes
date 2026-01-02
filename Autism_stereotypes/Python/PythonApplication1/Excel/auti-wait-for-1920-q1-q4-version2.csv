@@ -1,0 +1,60 @@
+QUARTER,REPORTING_PERIOD_START,REPORTING_PERIOD_END,STATUS,BREAKDOWN,PRIMARY_LEVEL,PRIMARY_LEVEL_DESCRIPTION,MEASURE,MEASURE_NAME,MEASURE_VALUE
+Quarter 1 2019-20,01/04/2019,30/06/2019,Performance,Age Group,18 - 24,,ASD01,Number of new referrals for suspected autism starting during the reporting period,775
+Quarter 1 2019-20,01/04/2019,30/06/2019,Performance,Age Group,25 - 34,,ASD01,Number of new referrals for suspected autism starting during the reporting period,700
+Quarter 1 2019-20,01/04/2019,30/06/2019,Performance,Age Group,35 - 44,,ASD01,Number of new referrals for suspected autism starting during the reporting period,435
+Quarter 1 2019-20,01/04/2019,30/06/2019,Performance,Age Group,45 - 54,,ASD01,Number of new referrals for suspected autism starting during the reporting period,285
+Quarter 1 2019-20,01/04/2019,30/06/2019,Performance,Age Group,55 - 64,,ASD01,Number of new referrals for suspected autism starting during the reporting period,125
+Quarter 1 2019-20,01/04/2019,30/06/2019,Performance,Age Group,65 and Over,,ASD01,Number of new referrals for suspected autism starting during the reporting period,55
+Quarter 1 2019-20,01/04/2019,30/06/2019,Performance,Age Group,Under 18,,ASD01,Number of new referrals for suspected autism starting during the reporting period,5765
+Quarter 1 2019-20,01/04/2019,30/06/2019,Performance,Ethnicity,Asian or Asian British,,ASD01,Number of new referrals for suspected autism starting during the reporting period,190
+Quarter 1 2019-20,01/04/2019,30/06/2019,Performance,Ethnicity,Mixed,,ASD01,Number of new referrals for suspected autism starting during the reporting period,275
+Quarter 1 2019-20,01/04/2019,30/06/2019,Performance,Ethnicity,Other Ethnic Groups,,ASD01,Number of new referrals for suspected autism starting during the reporting period,100
+Quarter 1 2019-20,01/04/2019,30/06/2019,Performance,Ethnicity,White,,ASD01,Number of new referrals for suspected autism starting during the reporting period,5285
+Quarter 1 2019-20,01/04/2019,30/06/2019,Performance,Gender,Female,,ASD01,Number of new referrals for suspected autism starting during the reporting period,2890
+Quarter 1 2019-20,01/04/2019,30/06/2019,Performance,Gender,Male,,ASD01,Number of new referrals for suspected autism starting during the reporting period,5240
+Quarter 1 2019-20,01/04/2019,30/06/2019,Performance,Total,England,,ASD01,Number of new referrals for suspected autism starting during the reporting period,8146
+Quarter 2 2019-20,01/07/2019,30/09/2019,Performance,Age Group,18 - 24,,ASD01,Number of new referrals for suspected autism starting during the reporting period,1195
+Quarter 2 2019-20,01/07/2019,30/09/2019,Performance,Age Group,25 - 34,,ASD01,Number of new referrals for suspected autism starting during the reporting period,985
+Quarter 2 2019-20,01/07/2019,30/09/2019,Performance,Age Group,35 - 44,,ASD01,Number of new referrals for suspected autism starting during the reporting period,615
+Quarter 2 2019-20,01/07/2019,30/09/2019,Performance,Age Group,45 - 54,,ASD01,Number of new referrals for suspected autism starting during the reporting period,395
+Quarter 2 2019-20,01/07/2019,30/09/2019,Performance,Age Group,55 - 64,,ASD01,Number of new referrals for suspected autism starting during the reporting period,165
+Quarter 2 2019-20,01/07/2019,30/09/2019,Performance,Age Group,65 and Over,,ASD01,Number of new referrals for suspected autism starting during the reporting period,40
+Quarter 2 2019-20,01/07/2019,30/09/2019,Performance,Age Group,Under 18,,ASD01,Number of new referrals for suspected autism starting during the reporting period,5655
+Quarter 2 2019-20,01/07/2019,30/09/2019,Performance,Ethnicity,Asian or Asian British,,ASD01,Number of new referrals for suspected autism starting during the reporting period,195
+Quarter 2 2019-20,01/07/2019,30/09/2019,Performance,Ethnicity,Black or Black British,,ASD01,Number of new referrals for suspected autism starting during the reporting period,125
+Quarter 2 2019-20,01/07/2019,30/09/2019,Performance,Ethnicity,Mixed,,ASD01,Number of new referrals for suspected autism starting during the reporting period,315
+Quarter 2 2019-20,01/07/2019,30/09/2019,Performance,Ethnicity,Other Ethnic Groups,,ASD01,Number of new referrals for suspected autism starting during the reporting period,95
+Quarter 2 2019-20,01/07/2019,30/09/2019,Performance,Ethnicity,White,,ASD01,Number of new referrals for suspected autism starting during the reporting period,5620
+Quarter 2 2019-20,01/07/2019,30/09/2019,Performance,Gender,Female,,ASD01,Number of new referrals for suspected autism starting during the reporting period,3315
+Quarter 2 2019-20,01/07/2019,30/09/2019,Performance,Gender,Male,,ASD01,Number of new referrals for suspected autism starting during the reporting period,5705
+Quarter 2 2019-20,01/07/2019,30/09/2019,Performance,Total,England,,ASD01,Number of new referrals for suspected autism starting during the reporting period,9055
+Quarter 3 2019-20,01/10/2019,31/12/2019,Performance,Age Group,18 - 24,,ASD01,Number of new referrals for suspected autism starting during the reporting period,1300
+Quarter 3 2019-20,01/10/2019,31/12/2019,Performance,Age Group,25 - 34,,ASD01,Number of new referrals for suspected autism starting during the reporting period,1060
+Quarter 3 2019-20,01/10/2019,31/12/2019,Performance,Age Group,35 - 44,,ASD01,Number of new referrals for suspected autism starting during the reporting period,660
+Quarter 3 2019-20,01/10/2019,31/12/2019,Performance,Age Group,45 - 54,,ASD01,Number of new referrals for suspected autism starting during the reporting period,505
+Quarter 3 2019-20,01/10/2019,31/12/2019,Performance,Age Group,55 - 64,,ASD01,Number of new referrals for suspected autism starting during the reporting period,185
+Quarter 3 2019-20,01/10/2019,31/12/2019,Performance,Age Group,65 and Over,,ASD01,Number of new referrals for suspected autism starting during the reporting period,35
+Quarter 3 2019-20,01/10/2019,31/12/2019,Performance,Age Group,Under 18,,ASD01,Number of new referrals for suspected autism starting during the reporting period,8025
+Quarter 3 2019-20,01/10/2019,31/12/2019,Performance,Ethnicity,Asian or Asian British,,ASD01,Number of new referrals for suspected autism starting during the reporting period,260
+Quarter 3 2019-20,01/10/2019,31/12/2019,Performance,Ethnicity,Black or Black British,,ASD01,Number of new referrals for suspected autism starting during the reporting period,165
+Quarter 3 2019-20,01/10/2019,31/12/2019,Performance,Ethnicity,Mixed,,ASD01,Number of new referrals for suspected autism starting during the reporting period,395
+Quarter 3 2019-20,01/10/2019,31/12/2019,Performance,Ethnicity,Other Ethnic Groups,,ASD01,Number of new referrals for suspected autism starting during the reporting period,135
+Quarter 3 2019-20,01/10/2019,31/12/2019,Performance,Ethnicity,White,,ASD01,Number of new referrals for suspected autism starting during the reporting period,7165
+Quarter 3 2019-20,01/10/2019,31/12/2019,Performance,Gender,Female,,ASD01,Number of new referrals for suspected autism starting during the reporting period,3990
+Quarter 3 2019-20,01/10/2019,31/12/2019,Performance,Gender,Male,,ASD01,Number of new referrals for suspected autism starting during the reporting period,7460
+Quarter 3 2019-20,01/10/2019,31/12/2019,Performance,Total,England,,ASD01,Number of new referrals for suspected autism starting during the reporting period,11775
+Quarter 4 2019-20,01/01/2020,31/03/2020,Performance,Age Group,18 - 24,,ASD01,Number of new referrals for suspected autism starting during the reporting period,1250
+Quarter 4 2019-20,01/01/2020,31/03/2020,Performance,Age Group,25 - 34,,ASD01,Number of new referrals for suspected autism starting during the reporting period,1025
+Quarter 4 2019-20,01/01/2020,31/03/2020,Performance,Age Group,35 - 44,,ASD01,Number of new referrals for suspected autism starting during the reporting period,680
+Quarter 4 2019-20,01/01/2020,31/03/2020,Performance,Age Group,45 - 54,,ASD01,Number of new referrals for suspected autism starting during the reporting period,455
+Quarter 4 2019-20,01/01/2020,31/03/2020,Performance,Age Group,55 - 64,,ASD01,Number of new referrals for suspected autism starting during the reporting period,195
+Quarter 4 2019-20,01/01/2020,31/03/2020,Performance,Age Group,65 and Over,,ASD01,Number of new referrals for suspected autism starting during the reporting period,55
+Quarter 4 2019-20,01/01/2020,31/03/2020,Performance,Age Group,Under 18,,ASD01,Number of new referrals for suspected autism starting during the reporting period,7200
+Quarter 4 2019-20,01/01/2020,31/03/2020,Performance,Ethnicity,Asian or Asian British,,ASD01,Number of new referrals for suspected autism starting during the reporting period,225
+Quarter 4 2019-20,01/01/2020,31/03/2020,Performance,Ethnicity,Black or Black British,,ASD01,Number of new referrals for suspected autism starting during the reporting period,150
+Quarter 4 2019-20,01/01/2020,31/03/2020,Performance,Ethnicity,Mixed,,ASD01,Number of new referrals for suspected autism starting during the reporting period,335
+Quarter 4 2019-20,01/01/2020,31/03/2020,Performance,Ethnicity,Other Ethnic Groups,,ASD01,Number of new referrals for suspected autism starting during the reporting period,115
+Quarter 4 2019-20,01/01/2020,31/03/2020,Performance,Ethnicity,White,,ASD01,Number of new referrals for suspected autism starting during the reporting period,6370
+Quarter 4 2019-20,01/01/2020,31/03/2020,Performance,Gender,Female,,ASD01,Number of new referrals for suspected autism starting during the reporting period,3945
+Quarter 4 2019-20,01/01/2020,31/03/2020,Performance,Gender,Male,,ASD01,Number of new referrals for suspected autism starting during the reporting period,6465
+Quarter 4 2019-20,01/01/2020,31/03/2020,Performance,Total,England,,ASD01,Number of new referrals for suspected autism starting during the reporting period,10858
